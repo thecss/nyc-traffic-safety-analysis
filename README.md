@@ -4,7 +4,8 @@
 <br>
 
 ## 📊 View Excel Project
-[View the Excel Analysis](.xlsx)
+[View the Excel Analysis](NYC_collisions_analysis.xlsx)
+
 <br>
 
 ## 💼 Business Problem
