@@ -18,13 +18,19 @@ To support this, the analysis answers three questions:
 
 ## 📊 Key Findings
 ### 1️⃣Seasonal Patterns
-
+<p align="center">
+  <img src="images/nyc_seasonal_trends_img.PNG" alt="Monthly NYC collision trends" width="800">
+</p>
   
 ### 2️⃣Weekly Trends
-
+<p align="center">
+  <img src="images/nyc_weekly_trends_img.PNG" alt="Weekly NYC collision trends" width="800">
+</p>
 
 ### 3️⃣Contributing Causes
-
+<p align="center">
+  <img src="images/nyc_causes_img.PNG" alt="NYC contributing causes" height="600" width="800">
+</p>
 
 ## 🔧Tools
 Microsoft Excel (PivotTables, WEEKDAY/HOUR functions, conditional formatting, line charts) 
